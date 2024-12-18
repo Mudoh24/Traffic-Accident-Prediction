@@ -4,7 +4,7 @@
 - [Project Overview](#project-overview)
 - [Data Source](#data-source)
 - [Tools](#tools)
-- [Data Cleaning/Preparation](#data-cleaning/preparation)
+- [Data Cleaning and Preparation](#data-cleaning-and-preparation)
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Data Analysis](#data-analysis)
 - [Results and Findings](#results-and-findings)
@@ -15,6 +15,9 @@
 
 
 ### Project Overview
+
+![Traffic dashboad](https://github.com/user-attachments/assets/e7436f5c-ae0f-43fc-aca7-476e0d64fdc5)
+
 
 The accident trends dataset provides insightful information on factors influencing road accidents, encompassing variables like Road Type, Time of Day, Traffic Density, Speed Limit, and Road Conditions. It categorizes accidents by severity, considering attributes such as Driver Age, Driver Experience, Alcohol Consumption, and Vehicle Type.
 
@@ -30,7 +33,7 @@ The primary data source used for this analys is the "dataset_traffic_accident_pr
 - SQL Server Data Analysis
 - Power BI - Data report and Visualisation
 
-### Data Cleaning/Preparation
+### Data Cleaning and Preparation
 The following tasks were performed;
 1. Data loading and insppection
 2. Handling of Missing data
@@ -159,4 +162,4 @@ Improve Road Safety in City Areas: Since city roads have the highest accident ra
 Implementing these targeted measures can significantly reduce accident rates and improve road safety.
 
 ### Data source
-[dataset_traffic_accident_prediction1](https://www.kaggle.com/datasets/denkuznetz/traffic-accident-prediction?select=dataset_traffic_accident_prediction1.csv)
+[dataset_traffic_accident_prediction](https://www.kaggle.com/datasets/denkuznetz/traffic-accident-prediction?select=dataset_traffic_accident_prediction1.csv)
