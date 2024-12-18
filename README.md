@@ -15,6 +15,7 @@
 
 
 ### Project Overview
+[DASHBOARD LINK](https://app.powerbi.com/reportEmbed?reportId=a52b0d10-e188-4919-bded-acb4739bd239&autoAuth=true&ctid=e0793d39-0939-496d-b129-198edd916feb)
 
 ![Traffic dashboad](https://github.com/user-attachments/assets/e7436f5c-ae0f-43fc-aca7-476e0d64fdc5)
 
