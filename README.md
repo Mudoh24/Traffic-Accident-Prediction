@@ -17,7 +17,8 @@
 ### Project Overview
 [DASHBOARD LINK](https://app.powerbi.com/reportEmbed?reportId=a52b0d10-e188-4919-bded-acb4739bd239&autoAuth=true&ctid=e0793d39-0939-496d-b129-198edd916feb)
 
-![Traffic dashboad](https://github.com/user-attachments/assets/e7436f5c-ae0f-43fc-aca7-476e0d64fdc5)
+![Traffic dashboard view](https://github.com/user-attachments/assets/536f9ce6-6807-4b1f-87d8-456450c8b30e)
+
 
 
 The accident trends dataset provides insightful information on factors influencing road accidents, encompassing variables like Road Type, Time of Day, Traffic Density, Speed Limit, and Road Conditions. It categorizes accidents by severity, considering attributes such as Driver Age, Driver Experience, Alcohol Consumption, and Vehicle Type.
